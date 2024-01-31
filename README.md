@@ -14,13 +14,13 @@ Feel free to reach out if you have any questions, feedback, or just want to conn
 
 ## Features
 - **Fully Responsive**
-- **PWA portfolio (you can install in mobile and desktop)**
+- **Easily editable and reusable**
 
 ## Getting Started
 
 Clone the repo and you are good to go.
 
-## Installation and Setup Instructions
+## Installation
 
 1. `npm install`
 
